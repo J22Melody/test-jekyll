@@ -1,0 +1,23 @@
+{
+  "name": "omni-website",
+  "version": "1.0.0",
+  "description": "Jekyll Basics is a simple boilerplate for Jekyll websites with a few (opinionated) best practices in mind:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wiredcraft/omni-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wiredcraft/omni-website/issues"
+  },
+  "homepage": "https://wiredcraft.github.io/omni-website/",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "material-components-web": "^0.44.1"
+  }
+}
